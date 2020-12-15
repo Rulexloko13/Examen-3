@@ -18,7 +18,7 @@ También tenemos que separar el **style** del .html y hacer un .css aparte
 ## ¿Que necesitamos?
 
 1. Visual Sudio Code
-2. Base del trabajo <a href="https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start">Descargar</a>
+2. Base del trabajo <a href="https://github.com/Rulexloko13/Examen-3/tree/master/Base%20examen">Descargar</a>
 3. Instrucciones de la practica <a href="https://www.mediafire.com/file/illa1ioy9qv7v2e/Examen_3_Parte_P%25C3%25A1gina_de_presentaci%25C3%25B3n_de_Mozilla.docx/file">Descargar</a>
 4. Cuenta en GitHub
 
