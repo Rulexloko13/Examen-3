@@ -22,6 +22,8 @@ También tenemos que separar el **style** del .html y hacer un .css aparte
 3. Instrucciones de la practica <a href="https://www.mediafire.com/file/illa1ioy9qv7v2e/Examen_3_Parte_P%25C3%25A1gina_de_presentaci%25C3%25B3n_de_Mozilla.docx/file">Descargar</a>
 4. Cuenta en GitHub
 
-## 
+## Como hacerlo
+
+Lo primero que debemos hacer es descargar Visual Studio Code, El word con las instrucciones de la practica y la plantilla para hacerlo, después tenemos que separar el **style** en un nuevo archivo .css, lo podemos hacer de la siguiente manera para linckearlo: <link rel="stylesheet" href="style.css"> 
 
 
