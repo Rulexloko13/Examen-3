@@ -28,13 +28,17 @@ Lo primero que debemos hacer es descargar Visual Studio Code, El word con las in
 
 Lo siguiente seria hacer la web responsive para todas plas plataformas y por ejemplo lo podemos hacer: 
 
-<html>
 @media screen and (max-width:480px){
 	body {
 		font-size:80%; // achicamos la fuente en pantallas pequeñas 
 	} 
 }
-</html> 
+
+Lo siguiente seria crear un repositorio en GitHub y hacer el README.md para explicar todo el trabajo
+
+## Autor
+Ruben Lechosa Cervantes
+
 
 
 
