@@ -1,11 +1,11 @@
-# Examen 3 Ruben Lechosa Cervantes
+# Examen 3 HTML Ruben Lechosa Cervantes
 ## Descripción de la practica
 
 En esta practica lo que debemos hacer es descargar la base que nos ha proporcionado el professor y hacer lo mismo que en la siguiente imagen:
 
 <img src="captura1.jpg">
 
-y subir un repositorio en GitHub
+subir el examen en un repositorio en GitHub y hacer un README.md con la explicación de la practica
 
 ## Ejecución
 
