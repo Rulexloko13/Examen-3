@@ -37,7 +37,7 @@ Lo siguiente seria hacer la web responsive para todas plas plataformas y por eje
 Lo siguiente seria crear un repositorio en GitHub y hacer el README.md para explicar todo el trabajo
 
 ## Autor
-Ruben Lechosa Cervantes
+Ruben Lechosa Cervantes 15/12/2020
 
 
 
