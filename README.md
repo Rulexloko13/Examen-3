@@ -24,6 +24,15 @@ También tenemos que separar el **style** del .html y hacer un .css aparte
 
 ## Como hacerlo
 
-Lo primero que debemos hacer es descargar Visual Studio Code, El word con las instrucciones de la practica y la plantilla para hacerlo, después tenemos que separar el **style** en un nuevo archivo .css, lo podemos hacer de la siguiente manera para linckearlo: <link rel="stylesheet" href="style.css"> 
+Lo primero que debemos hacer es descargar Visual Studio Code, El word con las instrucciones de la practica y la plantilla para hacerlo, después tenemos que separar el **style** en un nuevo archivo .css, lo podemos hacer de la siguiente manera para linckearlo: <link rel="stylesheet" href="style.css">.
+
+Lo siguiente seria hacer la web responsive para todas plas plataformas y por ejemplo lo podemos hacer: 
+
+@media screen and (max-width:480px){
+	body {
+		font-size:80%; // achicamos la fuente en pantallas pequeñas 
+	} 
+}
+
 
 
